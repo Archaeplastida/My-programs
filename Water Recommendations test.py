@@ -80,9 +80,7 @@ while True:
 # Alas, the 2-way single loop has finished
 
 ###############################################################################################
-    
-# If you want to be halal, then you should drink close or in the range in the amount of water listed
-# It is a better idea to be halal then to be sorry
+
 # Made 4/28/2022
 
 print("---------------------------------------------")
